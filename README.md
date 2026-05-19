@@ -1,2 +1,2 @@
-# toxicnhi.github.io
-Misc Web Pages
+# ToxicNHI
+Randomly Generated AI Helpers
